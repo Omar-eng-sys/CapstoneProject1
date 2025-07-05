@@ -8,7 +8,9 @@ This is the first capstone project in the course, designed to test basic underst
 
 - Profile image
 - Summary section
+- Education
 - Work experience
+- Courses and Certificates
 - Skills list
 - Contact section
 
